@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on instazoomer.de
+- 📫 How to reach me: kontakt@christophwessels.com
+
 <!--
 **christophwessels/christophwessels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
