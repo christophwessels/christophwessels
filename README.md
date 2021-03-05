@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on instazoomer.de
+- 🔭 I’m currently working on :
+- - instazoomer.de
+- - discordzoom.com
+- - thumbnail-downloader.de
 - 📫 How to reach me: kontakt@christophwessels.com
 
 <!--
