@@ -4,6 +4,7 @@
 - - instazoomer.de
 - - discordzoom.com
 - - thumbnail-downloader.de
+- - hytaleitems.de
 - 📫 How to reach me: kontakt@christophwessels.com
 
 <!--
